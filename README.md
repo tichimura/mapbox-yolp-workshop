@@ -28,6 +28,12 @@ https://e.developer.yahoo.co.jp/register
 - mapbox://styles/mapbox/satellite-v9
 - mapbox://styles/mapbox/satellite-streets-v11
 
+## 参考情報
+
+- [YOLPでのサンプル](https://gist.githubusercontent.com/tichimura/535313e24b7d32c8a303acace27532f9/raw/ef332216ef00831ca251dda7fbbb3ccc4d6664a6/yolpsample.html)
+- [Mapboxでのサンプル](https://gist.githubusercontent.com/tichimura/535313e24b7d32c8a303acace27532f9/raw/ef332216ef00831ca251dda7fbbb3ccc4d6664a6/yolpwebinar.html)
+- [APIリファレンス(English)](https://docs.mapbox.com/mapbox-gl-js/api/map)
+- [サンプルコード](https://docs.mapbox.com/jp/mapbox-gl-js/example/)
 
 ## コード実装
 
@@ -510,9 +516,4 @@ map.setStyle("mapbox://styles/mapbox/satellite-v9");
     }
 ```
 
-## 参考情報
 
-- [YOLPでのサンプル](https://gist.githubusercontent.com/tichimura/535313e24b7d32c8a303acace27532f9/raw/ef332216ef00831ca251dda7fbbb3ccc4d6664a6/yolpsample.html)
-- [Mapboxでのサンプル](https://gist.githubusercontent.com/tichimura/535313e24b7d32c8a303acace27532f9/raw/ef332216ef00831ca251dda7fbbb3ccc4d6664a6/yolpwebinar.html)
-- [APIリファレンス(English)](https://docs.mapbox.com/mapbox-gl-js/api/map)
-- [サンプルコード](https://docs.mapbox.com/jp/mapbox-gl-js/example/)
