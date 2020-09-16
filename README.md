@@ -19,6 +19,8 @@ https://e.developer.yahoo.co.jp/register
 
 こちらのサンプル
 - mapbox://styles/tichimura/ckf4bl24g1dfi19mv7ksq42ac
+(satelliteのレイヤーが`HIDE`になっているので、適宜`Show`にしてください）  
+https://docs.mapbox.com/studio-manual/reference/styles/#layers
 
 あるいは、以下のPublic テンプレートから利用
 - mapbox://styles/mapbox/streets-v11
